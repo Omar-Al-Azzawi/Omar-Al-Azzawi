@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omar-Al-Azzawi
+- # 👋 Hi, I’m @Omar-Al-Azzawi
 - 👀 I’m interested in coding
 - 💻 I’m currently learning coding
 - 💡 I’m looking to collaborate on startup
