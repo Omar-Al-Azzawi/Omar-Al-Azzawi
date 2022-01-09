@@ -1,8 +1,8 @@
-- # 👋 Hi, I’m @Omar-Al-Azzawi
-- 👀 I’m interested in coding
-- 💻 I’m currently learning coding
-- 💡 I’m looking to collaborate on startup
-- 📫 You can reach me by omaralazzawi01@gmail.com 
+ # 👋 Hi there! 
+ 
+ I am a Web Developer with a passion for building applications that are user-friendly and responsive. I have a strong background in front-end development and have   worked with a variety of technologies including HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, and more.
+
+📫 You can reach me by omaralazzawi01@gmail.com 
 
 <!---
 Omar-Al-Azzawi/Omar-Al-Azzawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
