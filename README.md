@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is Omar 
+### Hi there 👋, my name is Omar 
 #### I am a full-stack web developer
 I am a Web Developer with a passion for building applications that are user-friendly and responsive. I have a strong background in front-end development and have worked with a variety of technologies including HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, and more.
 
