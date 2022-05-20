@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Omar 
 
-I am a full-stack web developer with a passion for building applications that are user-friendly and responsive. I have a strong background in front-end development and have worked with a variety of technologies including HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, Jest and more.
+I am a full-stack web developer with a passion for building applications that are user-friendly and responsive. I have a strong background in front-end development and have worked with a variety of technologies including HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, Jest, Cypress and more.
 
 📫 You can reach me by omaralazzawi01@gmail.com 
 
